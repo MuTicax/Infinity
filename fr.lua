@@ -41,5 +41,31 @@ Translation = {
         ['giveperm_wrong_usage'] = '~r~Usage incorrect! ~w~/giveperm [Player-ID] [charamount/pedmode] [Value]',
         ['giveperm_success'] = '~g~Ajout des permissions réussie',
         ['giveperm_error'] = '~r~Joueur hors-ligne!',
-    }
+    },
+
+    -- CREATOR
+
+    ['fr'] = {
+        ['face_title'] = 'Your Character',
+        ['male'] = 'male',
+        ['female'] = 'female',
+        ['sex'] = 'Sex',
+        ['parents'] = 'Parents',
+        ['mother'] = 'Mother',
+        ['father'] = 'Father',
+        ['similarity'] = 'Similarity',
+        ['complexion'] = 'Complexion',
+        ['ageing'] = 'Ageing',
+        ['ageing_intensity'] = 'Ageing intensity',
+        ['eyecolour'] = 'Eyecolour',
+        ['eyebrows'] = 'Eyebrows',
+        ['eyebrows_intensity'] = 'Eyebrows Intensity',
+        ['complexion'] = 'Complexion',
+        ['complexion_intensity'] = 'Complexion Intensity',
+        ['sun_damage'] = 'Sun Damage',
+        ['sun_damage_intensity'] = 'Sun Damage Intensity',
+        ['change_colour'] = 'Change color',
+        ['change_variation'] = 'Change variation',
+    },
+
 }
