@@ -105,9 +105,9 @@ Translation = {
         ['mission_wrongCar'] = 'Ce n\'est pas le bon véhicule..',
         ['mission_backToFarm'] = 'Retourne à ta ferme!',
 
-        ['mission_self_plants_bought'] = 'x matière premières ~s~achetées for ~g~',
+        ['mission_self_plants_bought'] = 'x matière premières ~s~achetées pour ~g~',
         ['mission_self_plants_bought_2'] = '$~s~.',
-        ['mission_self_plants_notEnoughMoney'] = 'Les marchandises on été ~r~déchargées~s~, parce que tu n\'a pas assez d\'argent!.',
+        ['mission_self_plants_notEnoughMoney'] = 'Les marchandises ont été ~r~déchargées~s~, parce que tu n\'a pas assez d\'argent!.',
         ['mission_dou_plants_bought'] = 'x marchandises ~s~ont été ~g~achetées ~s~par ton patron.',
         ['mission_dou_plants_abort'] = '~b~',
         ['mission_dou_plants_abort_2'] = '~s~s La mission a été ~r~annulée~s~, parce que tu n\'a pas assez d\'argent.',
